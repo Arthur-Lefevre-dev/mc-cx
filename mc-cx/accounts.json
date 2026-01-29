@@ -28,6 +28,10 @@
             }
         },
         {
+            "entitlement": {
+                "canPlayMinecraft": true,
+                "ownsMinecraft": true
+            },
             "profile": {
                 "capes": [
                 ],
