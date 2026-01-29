@@ -907,13 +907,13 @@
         },
         {
             "base": "meta",
-            "current_age": 96,
-            "etag": "W/\"697a4ff6-8e1\"",
-            "last_changed_timestamp": 1769713427903,
+            "current_age": 88,
+            "etag": "W/\"697bafce-8e1\"",
+            "last_changed_timestamp": 1769713768569,
             "max_age": 600,
-            "md5sum": "3173be52f50688947b9137bac07d9a3b",
+            "md5sum": "ca2286ceb0a10edd9c5d94f958760c11",
             "path": "index.json",
-            "remote_changed_timestamp": "Wed, 28 Jan 2026 18:05:42 GMT"
+            "remote_changed_timestamp": "Thu, 29 Jan 2026 19:06:54 GMT"
         },
         {
             "base": "meta",
