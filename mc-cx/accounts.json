@@ -26,6 +26,28 @@
                 "iat": 1769712054,
                 "token": "0"
             }
+        },
+        {
+            "profile": {
+                "capes": [
+                ],
+                "id": "36f1f28ec7c132ebbbe9e7009f2c65d6",
+                "name": "Dragolelele",
+                "skin": {
+                    "id": "",
+                    "url": "",
+                    "variant": ""
+                }
+            },
+            "type": "Offline",
+            "ygg": {
+                "extra": {
+                    "clientToken": "4a7a4fe0dfae4193a340ab414ddd81f3",
+                    "userName": "Dragolelele"
+                },
+                "iat": 1769726687,
+                "token": "0"
+            }
         }
     ],
     "formatVersion": 3
