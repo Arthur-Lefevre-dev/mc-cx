@@ -9,3 +9,4 @@
 Play MC at CX
 
 Look Javahelp.png to fix any java error.
+Look Launch-game.png to launch the game :)

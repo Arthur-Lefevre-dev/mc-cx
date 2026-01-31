@@ -1,7 +1,7 @@
 version:4671
 ao:true
 biomeBlendRadius:2
-chunkSectionFadeInTime:0.75
+chunkSectionFadeInTime:0.0
 cutoutLeaves:true
 enableVsync:false
 entityDistanceScaling:1.0
@@ -13,9 +13,9 @@ fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
-graphicsPreset:"fancy"
+graphicsPreset:"custom"
 prioritizeChunkUpdates:1
-fullscreen:false
+fullscreen:true
 gamma:0.5
 guiScale:0
 maxAnisotropyBit:1
@@ -27,7 +27,7 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"false"
 cloudRange:64
 renderDistance:16
 simulationDistance:12
@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","continuity:glass_pane_culling_fix","file/Faithful 32x - 1.21.11.zip"]
+resourcePacks:["vanilla","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
